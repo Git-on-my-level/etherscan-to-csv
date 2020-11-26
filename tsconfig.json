@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "es6", // 'es3' (default), 'es5', 'es2015', 'es2016', 'es2017', 'es2018', 'es2019' or 'esnext'
+      "moduleResolution": "node",
+      "lib": [
+        "es6",
+        "dom",
+      ],
+    },
+    "exclude": [
+      "node_modules",
+    ]
+  }
